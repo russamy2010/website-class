@@ -3132,7 +3132,10 @@ $black			: #222;
     margin-bottom: 5px;
     text-align: right;
   }
-  
+
+ .single-skill:hover p {
+    color: #8490ff;
+  }
   .sb_progress {
     height: 14px !important;
     border-radius: 12px;
