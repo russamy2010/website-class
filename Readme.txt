@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: OnePage
-Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is a repo for me to practice in building websites using HTML, CSS, Bootstrap and Javascript. 
